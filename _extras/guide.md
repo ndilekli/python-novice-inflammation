@@ -6,7 +6,7 @@ permalink: /guide/
 
 ## About the lesson
 
-Our real goal isn't to teach workshop attendees Python as a programming language,
+Test. Our real goal isn't to teach workshop attendees Python as a programming language,
 but to teach them the basic concepts that all programming depends on.
 We use Python in our lessons because:
 
